@@ -5,7 +5,8 @@
 My name is Deniz, I'm at UoB taking BSc Computer Science
 
 - 🔭 I’m currently working on a Blog to document my learning and my music
-- 🌱 I’m currently learning Web Development via The Odin Project, Security via TryHackMe, and Azure Fundementals (AZ900) via MS Learn
+- 🌱 I’m currently learning Web Development via The Odin Project, Security via TryHackMe,
+      and Azure Fundementals (AZ900) via MS Learn
 
 
   
