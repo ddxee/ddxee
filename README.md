@@ -1,6 +1,6 @@
 ## Hi there 👋, Welcome! 
 
-![IMG_3978](https://github.com/user-attachments/assets/0cf0ab12-cf02-463f-8517-1e97a9d9bdc0)
+![IMG_3978_Cropped](https://github.com/user-attachments/assets/843cbdd1-44b0-42ac-b327-ce0a7c2cfb16)
 
 My name is Deniz, I'm at UoB taking BSc Computer Science
 
