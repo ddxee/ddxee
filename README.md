@@ -5,11 +5,11 @@
 My name is Deniz, I'm at UoB taking BSc Computer Science
 
 - 🔭 I’m currently working on a Blog to document my learning and my music
-- 🌱 I’m currently learning Web Development via The Odin Project, Security via TryHackMe,
-      and Azure Fundementals (AZ900) via MS Learn
+- 🌱 I’m currently learning Web Development via The Odin Project, and Security via TryHackMe
+- :open_book: I'm also learning the AZ-900 Azure Fundementals material via MS Learn
+- :dizzy: My inspiration at the moment is to find fun and interesting ways to blend technology and music :)
 
 
-  
 <!--
 **ddxee/ddxee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
