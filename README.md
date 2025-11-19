@@ -5,8 +5,7 @@
 My name is Deniz, I'm at UoB taking BSc Computer Science
 
 - 🔭 I’m currently working on a Blog to document my learning and my music
-- 🌱 I’m currently learning Web Development via The Odin Project, and Security via TryHackMe
-- :open_book: I'm also learning the AZ-900 Azure Fundementals material via MS Learn
+- 🌱 I’m currently learning Web Development via the 24 lesson Microsoft Web Dev for Beginners course
 - :dizzy: My inspiration at the moment is to find fun and interesting ways to blend technology and music :)
 
 
@@ -22,4 +21,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Every fight is a food fight when you're a cannibal
+- :open_book: I'm also learning the AZ-900 Azure Fundementals material via MS Learn, and Security via TryHackMe
 -->
