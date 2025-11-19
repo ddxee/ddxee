@@ -5,7 +5,7 @@
 My name is Deniz, I'm at UoB taking BSc Computer Science
 
 - 🔭 I’m currently working on a Blog to document my learning and my music
-- 🌱 I’m currently learning Web Development via the 24 lesson Microsoft Web Dev for Beginners course
+- 🌱 I’m currently learning Web Development via the Microsoft Web Dev for Beginners course on GitHub
 - :dizzy: My inspiration at the moment is to find fun and interesting ways to blend technology and music :)
 
 
